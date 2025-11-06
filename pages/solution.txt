@@ -1,17 +1,3 @@
-https://AggelosAndr.github.io
-byte0: i_wanna_be
-byte1: in_every_job_that_must_be_done_there_is_an_element_of_fun
-byte2: grep_and_you_will_find
-byte3: programmers
-byte4: the_triwizard_cup_is_now_yours
-byte5: sdi2500009_1762432194_-840968942_89_210_54_89_64329_22
-byte6: unzipping_is_a_piece_of_cake
-byte7: tar_jokes_cant_stick
-byte8: cant_keep_secrets_from_you
-byte9: filepaths_are_handy
-byte10: Althea
-byte11: Peta
-byte12: which_command_is_the_best
-byte13: Add a brief description for the repo. Created my README file.
-byte14: is correct — the secret is no longer in the repo and isn’t visible to other users.
-byte15: congratulations_you_have_completed_all_challenges
+theme: jekyll-theme-minimal
+title: AggelosAndr Homepage
+description: Save this to check out my project updates!
