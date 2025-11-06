@@ -13,3 +13,4 @@ byte10: Althea
 byte11: Peta
 byte12: which_command_is_the_best
 byte13: Add a brief description for the repo. Created my README file.
+byte14: is correct — the secret is no longer in the repo and isn’t visible to other users.
